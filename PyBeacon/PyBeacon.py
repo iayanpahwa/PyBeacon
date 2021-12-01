@@ -20,7 +20,7 @@ else:
     DEVNULL = open(os.devnull, 'wb')
 
 # The default url
-defaultUrl = "https://goo.gl/SkcDTN"
+defaultUrl = "hub.balena.io"
 
 # The default uid
 defaultUid = "01234567890123456789012345678901"
